@@ -1,0 +1,11 @@
+/Users/tianxiaoqiang/Custer/CodeWars/8kyu/Multiplication table for number/rust/target/debug/deps/getrandom-e27ad81734af4e37.rmeta: /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/getrandom-0.2.3/src/lib.rs /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/getrandom-0.2.3/src/error.rs /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/getrandom-0.2.3/src/util.rs /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/getrandom-0.2.3/src/error_impls.rs /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/getrandom-0.2.3/src/util_libc.rs /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/getrandom-0.2.3/src/use_file.rs /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/getrandom-0.2.3/src/macos.rs
+
+/Users/tianxiaoqiang/Custer/CodeWars/8kyu/Multiplication table for number/rust/target/debug/deps/getrandom-e27ad81734af4e37.d: /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/getrandom-0.2.3/src/lib.rs /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/getrandom-0.2.3/src/error.rs /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/getrandom-0.2.3/src/util.rs /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/getrandom-0.2.3/src/error_impls.rs /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/getrandom-0.2.3/src/util_libc.rs /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/getrandom-0.2.3/src/use_file.rs /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/getrandom-0.2.3/src/macos.rs
+
+/Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/getrandom-0.2.3/src/lib.rs:
+/Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/getrandom-0.2.3/src/error.rs:
+/Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/getrandom-0.2.3/src/util.rs:
+/Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/getrandom-0.2.3/src/error_impls.rs:
+/Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/getrandom-0.2.3/src/util_libc.rs:
+/Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/getrandom-0.2.3/src/use_file.rs:
+/Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/getrandom-0.2.3/src/macos.rs:

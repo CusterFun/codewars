@@ -1,0 +1,10 @@
+/Users/tianxiaoqiang/Custer/CodeWars/8kyu/Multiplication table for number/rust/target/debug/deps/rand_core-d178abb8384739f6.rmeta: /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/rand_core-0.6.3/src/lib.rs /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/rand_core-0.6.3/src/block.rs /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/rand_core-0.6.3/src/error.rs /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/rand_core-0.6.3/src/impls.rs /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/rand_core-0.6.3/src/le.rs /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/rand_core-0.6.3/src/os.rs
+
+/Users/tianxiaoqiang/Custer/CodeWars/8kyu/Multiplication table for number/rust/target/debug/deps/rand_core-d178abb8384739f6.d: /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/rand_core-0.6.3/src/lib.rs /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/rand_core-0.6.3/src/block.rs /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/rand_core-0.6.3/src/error.rs /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/rand_core-0.6.3/src/impls.rs /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/rand_core-0.6.3/src/le.rs /Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/rand_core-0.6.3/src/os.rs
+
+/Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/rand_core-0.6.3/src/lib.rs:
+/Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/rand_core-0.6.3/src/block.rs:
+/Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/rand_core-0.6.3/src/error.rs:
+/Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/rand_core-0.6.3/src/impls.rs:
+/Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/rand_core-0.6.3/src/le.rs:
+/Users/tianxiaoqiang/.cargo/registry/src/rsproxy.cn-8f6827c7555bfaf8/rand_core-0.6.3/src/os.rs:
